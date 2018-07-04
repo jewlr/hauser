@@ -16,7 +16,7 @@ import (
 	"github.com/lib/pq"
 	"github.com/nishanths/fullstory"
 
-	"github.com/fullstorydev/hauser/config"
+	"github.com/jewlr/hauser/config"
 )
 
 type Redshift struct {

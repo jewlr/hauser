@@ -4,7 +4,7 @@
 
 ## Quick Start
 * Make sure you have [installed](https://golang.org/doc/install) Go 1.7 or higher.
-* Build it (for EC2, for example): ``GOOS=linux GOARCH=amd64 go get github.com/fullstorydev/hauser``
+* Build it (for EC2, for example): ``GOOS=linux GOARCH=amd64 go get github.com/jewlr/hauser``
 * Copy the included `example-config.toml` file and customize it for your environment, including your FullStory API key, warehouse host, and credentials. AWS credentials (for S3) come from your local environment.
 * Run it: `./hauser -c <your updated config file>`
 

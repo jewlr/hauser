@@ -13,8 +13,8 @@ import (
 
 	"github.com/nishanths/fullstory"
 
-	"github.com/fullstorydev/hauser/config"
-	"github.com/fullstorydev/hauser/warehouse"
+	"github.com/jewlr/hauser/config"
+	"github.com/jewlr/hauser/warehouse"
 )
 
 var (
